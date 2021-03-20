@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, request
 import alpaca_trade_api as tradeapi
 import config, json, requests
 
