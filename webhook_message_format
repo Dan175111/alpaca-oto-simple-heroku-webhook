@@ -1,0 +1,15 @@
+One Triggers Other ('OTO')- order template - Buy Order with Sell Order and Limit/Quantity Set in TradingView
+
+{
+    
+    "quantity": 100,  
+    "profit": 1.0123,
+    "ticker": "{{ticker}}",    
+    "price": {{close}},
+    "time": "{{timenow}}",
+    "volume": "{{volume}}",
+    "chart_time": "{{interval}}",
+    "exchange": "{{exchange}}",
+    "passphrase": your_passphrase"
+
+}
