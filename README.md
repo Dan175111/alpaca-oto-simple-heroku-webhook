@@ -1,4 +1,4 @@
-# alpaca-oto-simple-heroku-webook
+# alpaca-oto-simple-heroku-webhook
 Simple 'OTO' buy limit order to Alpaca via TradingView webhook 
 
 
