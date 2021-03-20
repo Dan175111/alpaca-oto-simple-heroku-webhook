@@ -10,6 +10,6 @@ One Triggers Other ('OTO')- order template - Buy Order with Sell Order and Limit
     "volume": "{{volume}}",
     "chart_time": "{{interval}}",
     "exchange": "{{exchange}}",
-    "passphrase": your_passphrase"
+    "passphrase": "your_passphrase"
 
 }
